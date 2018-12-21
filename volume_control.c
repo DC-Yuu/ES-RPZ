@@ -1,8 +1,8 @@
-//‰¹—Ê‚ğ’²ß‚·‚é‚½‚ß‚ÌƒvƒƒOƒ‰ƒ€
-#include<>
+//éŸ³é‡ã‚’èª¿ç¯€ã™ã‚‹ãŸã‚ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+/*#include<>
 
-#define 
-
+#define
+*/
 int volume_control(int);
 
 int volume_control(int button){
